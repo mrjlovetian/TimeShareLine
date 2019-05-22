@@ -30,7 +30,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.contentUrlStrs = @[@"http://robroker.hithink.com/stockpage/usa_AAPL#&atab=geguNews", @"http://robroker.hithink.com/basic/AAPL/pub.html?appname=platformphone", @"http://robroker.hithink.com/basic/AAPL/company.html", @"http://robroker.hithink.com/basic/AAPL/company.html"];
+    self.contentUrlStrs = @[@"https://stocktwits.com/symbol/AMZN", @"https://github.com/tsenart/vegeta", @"https://github.com/chenliangloveyou/EasyNavigation", @"https://github.com/CoderZhuXH/XHWebImageAutoSize"];
     self.gk_navTitleColor = [UIColor whiteColor];
     self.gk_navTitleFont = [UIFont boldSystemFontOfSize:18.0f];
     self.gk_navBackgroundColor = [UIColor clearColor];
